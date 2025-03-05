@@ -64,7 +64,7 @@ tree += " internal-link\n"
 async function findRelatives(path, relative = [""]) {
 	let parents = [];
 	
-// Отримання вмісту файлу
+	// Отримання вмісту файлу
     const file = app.vault.getAbstractFileByPath(path);
     if (!file) {
         console.error("Файл не знайдено: ", path);
@@ -72,7 +72,7 @@ async function findRelatives(path, relative = [""]) {
     }
     const content = await app.vault.read(file);
 	
-// Регулярний вираз для пошуку t-relative:[[File Name]]
+    // Регулярний вираз для пошуку t-relative:[[File Name]]
 	for (let rel of relative) {
 		let cont = content
 		let pos = content.indexOf(rel);
@@ -93,7 +93,7 @@ async function findRelatives(path, relative = [""]) {
 		}
 	}
 	
-return parents;
+	return parents;
 }
 
 //Генерація зв'язків між блоками
