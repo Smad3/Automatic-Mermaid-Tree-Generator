@@ -17,7 +17,7 @@ Result would look like that:
 An example is in EXAMPLE folder.
 
 Please, mention repository, if you'll use code.
-<div align="right">
+
 UA
 Генератор дерев Mermaid, створений для плагіна Obsidian Templater. Щоб його згенерувати, потрібно вставити теги в текст.
 
@@ -36,4 +36,3 @@ UA
 Приклад знаходиться в папці EXAMPLE.
 
 Будь ласка, лишіть посилання на репозиторій, якщо ви використовуєте репозиторій.
-</div>
