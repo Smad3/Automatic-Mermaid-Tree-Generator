@@ -8,7 +8,7 @@ The difference between files TreeGenerator is comments language.
 
 Your family should look like that:
 
-![image](https://github.com/user-attachments/assets/1792ece9-9174-4ad1-ab07-338a6d5ba323)
+![image](https://github.com/user-attachments/assets/1792ece9-9174-4ad1-ab07-338a6d5ba323) {: width="50%"}
 
 Result would look like that:
 
