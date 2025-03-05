@@ -9,7 +9,7 @@ The difference between files TreeGenerator is comments language.
 
 Your family should look like that:
 
-<img src="https://github.com/user-attachments/assets/1792ece9-9174-4ad1-ab07-338a6d5ba323" height=20% width=20% >
+<img src="https://github.com/user-attachments/assets/a16c8271-9314-4fde-bfe7-088ac2032de2" height=20% width=20% >
 
 Result would look like that:
 
@@ -29,7 +29,7 @@ Please, mention repository, if you'll use code.
 
 Ваша структура має виглядати так:
 
-<img src="https://github.com/user-attachments/assets/1792ece9-9174-4ad1-ab07-338a6d5ba323" height=20% width=20% >
+<img src="https://github.com/user-attachments/assets/a16c8271-9314-4fde-bfe7-088ac2032de2" height=20% width=20% >
 
 Результат виглядатиме так:
 
