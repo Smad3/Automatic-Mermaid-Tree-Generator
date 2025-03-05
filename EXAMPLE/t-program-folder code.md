@@ -7,6 +7,9 @@ const children = ["t-child:", "д-дитина:"];
 const parentsDots = ["t-parent-d:", "д-батьки-т:"];
 const childrenDots = ["t-child-d:", "д-дитина-т:"];
 
+// Якщо цей текст присутній у назві файла/папки, вона не буде враховуватися
+const progFolder = "t-program-folder";
+
 // Голова дерева
 var tree = "\`\`\`mermaid\ngraph TD\n"
 
@@ -39,7 +42,7 @@ let files = [];
 // Фільтр файлів до поточної теки
 for (let file of allFiles) {
 	let path = file.path;
-	if (path.startsWith(currentFolder + "/") && path !== activeFilePath) {
+	if (path.startsWith(currentFolder + "/") && path !== activeFilePath && !path.includes(progFolder)) {
 		console.log(path + "\n");
 		files.push(path);
 	}
