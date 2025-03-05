@@ -13,7 +13,7 @@ Your family should look like that:
 
 Result would look like that:
 
-<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" height=20% width=20% >
+<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" height=30% width=30% >
 
 An example is in EXAMPLE folder.
 
@@ -33,7 +33,7 @@ Please, mention repository, if you'll use code.
 
 Результат виглядатиме так:
 
-<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" height=20% width=20% >
+<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" height=30% width=30% >
 
 Приклад знаходиться в папці EXAMPLE.
 
