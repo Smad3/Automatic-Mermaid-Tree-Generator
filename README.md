@@ -1,5 +1,5 @@
-## Mermaid-Tree-Generator
-# EN
+# Mermaid-Tree-Generator
+### EN
 
 Mermaid Tree Generator made for Obsidian pluggin Templater.  You need to insert tags in text to generate it.
 
@@ -19,7 +19,7 @@ An example is in EXAMPLE folder.
 
 Please, mention repository, if you'll use code.
 
-# UA
+### UA
 
 Генератор дерев Mermaid, створений для плагіна Obsidian Templater. Щоб його згенерувати, потрібно вставити теги в текст.
 
