@@ -32,7 +32,7 @@ Please, mention repository, if you'll use code.
 
 Результат виглядатиме так:
 
-<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" width=30% >
+<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" width=150px >
 
 Приклад знаходиться в папці EXAMPLE.
 
