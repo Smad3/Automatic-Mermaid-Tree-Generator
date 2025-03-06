@@ -1,8 +1,8 @@
 # Automatic Mermaid Tree Generator
-<details> <summary>### EN</summary> <br>
+<details> <summary>EN - English</summary> <br>
 Mermaid Tree Generator made for Obsidian pluggin Templater.  You need to insert tags in text to generate it.
 
-You need to copy code from TreeGenerator</details>  file to note in folder with all files, that you need. It also applies to files in folders inside of it.
+You need to copy code from TreeGenerator  file to note in folder with all files, that you need. It also applies to files in folders inside of it.
 
 The difference between files TreeGenerator is comments language.
 
@@ -19,7 +19,7 @@ An example is in EXAMPLE folder.
 Please, mention repository, if you'll use code.
 </details> 
 
-<details> <summary>### UA</summary> <br> 
+<details> <summary>UA - Українська</summary> <br> 
 Генератор дерев Mermaid, створений для плагіна Obsidian Templater. Щоб його згенерувати, потрібно вставити теги в текст.
 
 Вам необхідно скопіювати код із файлу TreeGenerator у нотатку в папці з усіма файлами, які вам потрібні. Це також стосується файлів у вкладених папках.
