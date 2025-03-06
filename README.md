@@ -8,11 +8,11 @@ The difference between files TreeGenerator is comments language.
 
 Your family should look like that:
 
-<img src="https://github.com/user-attachments/assets/32c7718d-7339-4e59-b2ff-d52bbc5c511b" height=30% width=30% >
+<img src="https://github.com/user-attachments/assets/32c7718d-7339-4e59-b2ff-d52bbc5c511b" width=150px >
 
 Result would look like that:
 
-<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" height=30% width=30% >
+<img src="https://github.com/user-attachments/assets/2c581351-7fdf-4f26-a8f2-6eb05bee8cdb" width=150px >
 
 An example is in EXAMPLE folder.
 
@@ -28,7 +28,7 @@ Please, mention repository, if you'll use code.
 
 Ваша структура має виглядати так:
 
-<img src="https://github.com/user-attachments/assets/32c7718d-7339-4e59-b2ff-d52bbc5c511b" height=30% width=30% >
+<img src="https://github.com/user-attachments/assets/32c7718d-7339-4e59-b2ff-d52bbc5c511b" width=150px >
 
 Результат виглядатиме так:
 
