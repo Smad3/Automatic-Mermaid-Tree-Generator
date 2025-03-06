@@ -6,7 +6,7 @@ You need to copy code from TreeGenerator  file to note in folder with all files,
 
 The difference between files TreeGenerator is comments language.
 
-Your family should look like that:
+Your structure should look like that:
 
 <img src="https://github.com/user-attachments/assets/32c7718d-7339-4e59-b2ff-d52bbc5c511b" width=150px >
 
